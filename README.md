@@ -11,7 +11,7 @@ Built with Microsoft SQL Server to learn and grow with industry best practices i
 ## Requirements
 
 ### Objective
-Develop a data warehouse using SQL Server to consolidate sales data for analytical reporting and informed decision-making.
+Develop a data warehouse using Microsoft SQL Server to consolidate sales data for analytical reporting and informed decision-making.
 
 #### Specifications
 - **Data Sources** : Import data from two source systems, ERP and CRM.  These are provided as CSV files
@@ -19,3 +19,10 @@ Develop a data warehouse using SQL Server to consolidate sales data for analytic
 - **Integration**  : Combine both source systems into a single data model designed for analytical analysis.
 - **Scope**  : Focus on the latest dataset only;  historization is not requried for the data.
 - **Documentation** : Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+
+## License
+This project is licensed under the [MIT License](LICENSE). You can use, modify, and share this project with proper attribution.
+
+## About Me
+Hello, 你好，Bonjour, こんにちは！
+My name is **Brigitte** and I am transitioning from Tech Support to Data Engineering.  Thank you for being with me on my first step to that goal.
